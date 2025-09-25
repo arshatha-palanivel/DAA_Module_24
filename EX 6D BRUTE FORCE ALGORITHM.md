@@ -1,5 +1,5 @@
 # EX 6D BRUTE FORCE ALGORITHM
-## DATE:22/8/25
+## DATE:25-09-2025
 ## AIM:
 To write a python program using brute force method of searching for the given substring in the main string.
 
@@ -20,8 +20,8 @@ To write a python program using brute force method of searching for the given su
 ## Program:
 ```
 To implement the program using brute force method of searching for the given substring in the main string.
-Developed by: ABHINESWAR REDDY K
-Register Number: 212223040084
+Developed by: ARSHATHA P
+Register Number: 212222230012
 ```
 
 ```python
